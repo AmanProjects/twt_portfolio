@@ -3,7 +3,6 @@
     "name": "Amandeep Singh \"Aman\" Talwar",
     "label": "AI-Enabled Operations Strategist · Developer Experience · Large-Scale Program Leadership",
     "email": "amandeep.talwar@gmail.com",
-    "phone": "+91-7799444996",
     "summary": "Strategy and program leader with 20+ years driving large-scale, complex initiatives across software and semiconductor organizations, and 7+ years managing globally distributed teams. Operate at the intersection of business, product, and engineering — structuring highly complex information to align senior stakeholders and convert ambiguous goals into repeatable, deployable solutions. Currently leading the adoption of AI and agentic tooling (MCP) to re-imagine and automate content and developer workflows: defining the strategy, building the toolchain, and operationalizing it into release processes.",
     "location": {
       "city": "Hyderabad / Pune",
@@ -19,19 +18,6 @@
   },
   "work": [
     {
-      "name": "Autodesk",
-      "position": "Manager, Content Design",
-      "location": "Pune, India",
-      "startDate": "2024-11",
-      "endDate": "",
-      "highlights": [
-        "Define strategy and standards for AI-assisted, developer-facing solutions and own release readiness across cross-functional workflows.",
-        "Lead the development and deployment of AI/agentic tooling (MCP) that automates standards-based evaluation and solution generation — scaling output without scaling headcount.",
-        "Drive large, complex initiatives spanning open API specification, Jira migration, and platform integration, influencing priorities across product, engineering, and design.",
-        "Build repeatable solution content — best practices, standards, reference material — and embed it into engineering release processes; raise the talent bar through senior-level hiring."
-      ]
-    },
-    {
       "name": "Microchip",
       "position": "Technical Publications Manager",
       "location": "Hyderabad, India",
@@ -42,56 +28,9 @@
         "Owned capacity planning, risk forecasting, and stakeholder-approved program plans; led an enterprise-wide FrameMaker → DITA XML transformation with full change management.",
         "Identified recurring solution issues across teams and collaborated cross-functionally to mitigate future risk."
       ]
-    },
-    {
-      "name": "Xilinx",
-      "position": "Documentation Manager / Senior Staff Technical Writer",
-      "location": "Hyderabad, India",
-      "startDate": "2014-08",
-      "endDate": "2020-09",
-      "highlights": [
-        "Led a milestone Converged Access release across 3 teams and 3 business units, requiring extensive stakeholder alignment across conflicting priorities.",
-        "Acted as PO/PM for XML transformation initiatives; set long-term solution strategy and drove org-wide adoption.",
-        "Drove automation of 600+ CLI references and API generation (Doxygen/Sphinx/XSLT), a large-scale efficiency and consistency gain.",
-        "Selected for the Management Development Solution leadership program."
-      ]
-    },
-    {
-      "name": "Freescale Semiconductors (now NXP)",
-      "position": "Lead Technical Writer",
-      "location": "Noida, India",
-      "startDate": "2007-09",
-      "endDate": "2014-12",
-      "highlights": [
-        "Led the global Doxygen strategy, defining standards across worldwide business units and building automation that eliminated days of manual effort per release.",
-        "Earned Best Technical Poster at the IDC Technical Symposium, multiple peer and appreciation awards, and Community Volunteer of the Year 2008."
-      ]
-    },
-    {
-      "name": "Fidelity National Information Systems",
-      "position": "Senior Consultant",
-      "startDate": "2007",
-      "endDate": "2007"
-    },
-    {
-      "name": "Intoto Software (now NXP)",
-      "position": "Technical Writer",
-      "startDate": "2004",
-      "endDate": "2007",
-      "highlights": [
-        "Built the BHARATI solution portal in JSP/MySQL."
-      ]
     }
   ],
   "education": [
-    {
-      "institution": "Kakatiya University, India",
-      "studyType": "B.Sc.",
-      "area": "Chemistry"
-    },
-    {
-      "studyType": "Master of Computer Applications"
-    },
     {
       "studyType": "PG Honors Diploma in Computer Applications"
     }
